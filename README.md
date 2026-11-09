@@ -1,8 +1,20 @@
 # MusicFX product website
 
 Static marketing + shop site for MusicFX hardware (LED strips, controllers, accessories),
-software and apps. No build step and no dependencies. It deploys with the rest of `docs/`
-via GitHub Pages and is served at `/Piano-MIDI-visualizer/musicfx/`.
+software and apps. No build step and no dependencies. GitHub Pages serves this repo's
+`main` branch root at <https://nickprocenko.github.io/musicfx-site/>.
+
+Moved out of `Piano-MIDI-visualizer/docs/musicfx/` (history kept) on 2026-11-09.
+"Launch the visualizer" links point at <https://nickprocenko.github.io/Piano-MIDI-visualizer/>.
+
+## Related repos
+
+| Repo | What |
+|------|------|
+| [musicfx-firmware](https://github.com/nickprocenko/musicfx-firmware) (private) | Hub firmware |
+| [musicfx-hardware](https://github.com/nickprocenko/musicfx-hardware) (private) | PCB, enclosures, diffusers, BOM |
+| [musicfx-business](https://github.com/nickprocenko/musicfx-business) (private) | Compliance, patents, suppliers, pricing |
+| [Piano-MIDI-visualizer](https://github.com/nickprocenko/Piano-MIDI-visualizer) | Visualizer + Practice Coach software |
 
 ## Pages
 
@@ -42,4 +54,4 @@ Shop URLs are shareable: `shop.html?cat=bundle&size=61`.
       Confirm the terms, then add policy, privacy and contact pages.
 - [ ] **Product photos**: cards use inline SVG illustrations. Replace them with real photos.
 - [ ] **Hardware specs**: confirm strip lengths, LED type, PSU rating and the Hub Pro feature set.
-- [ ] **Domain**: if MusicFX gets its own domain, move this folder to its own repo or Pages site.
+- [ ] **Domain**: if MusicFX gets its own domain, add a `CNAME` file here and set it in the repo's Pages settings.

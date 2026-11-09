@@ -72,7 +72,7 @@
             <li><a href="shop.html?cat=accessory">Accessories</a></li>
           </ul></div>
           <div><h4>Software</h4><ul>
-            <li><a href="../">Launch Visualizer</a></li>
+            <li><a href="https://nickprocenko.github.io/Piano-MIDI-visualizer/">Launch Visualizer</a></li>
             <li><a href="software.html#coach">Practice Coach</a></li>
             <li><a href="software.html#firmware">Hub Firmware</a></li>
             <li><a href="software.html#stream">Streaming Tools</a></li>
