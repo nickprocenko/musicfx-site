@@ -5,7 +5,7 @@ software and apps. No build step and no dependencies. GitHub Pages serves this r
 `main` branch root at <https://nickprocenko.github.io/musicfx-site/>.
 
 Moved out of `Piano-MIDI-visualizer/docs/musicfx/` (history kept) on 2026-11-09.
-"Launch the visualizer" links point at <https://nickprocenko.github.io/Piano-MIDI-visualizer/>.
+"Launch the visualizer" links point at <https://nickprocenko.github.io/musicfx-software/>.
 
 ## Related repos
 
@@ -14,7 +14,7 @@ Moved out of `Piano-MIDI-visualizer/docs/musicfx/` (history kept) on 2026-11-09.
 | [musicfx-firmware](https://github.com/nickprocenko/musicfx-firmware) (private) | Hub firmware |
 | [musicfx-hardware](https://github.com/nickprocenko/musicfx-hardware) (private) | PCB, enclosures, diffusers, BOM |
 | [musicfx-business](https://github.com/nickprocenko/musicfx-business) (private) | Compliance, patents, suppliers, pricing |
-| [Piano-MIDI-visualizer](https://github.com/nickprocenko/Piano-MIDI-visualizer) | Visualizer + Practice Coach software |
+| [musicfx-software](https://github.com/nickprocenko/musicfx-software) | Visualizer + Practice Coach software |
 
 ## Pages
 

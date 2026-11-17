@@ -167,7 +167,7 @@
       name: "MusicFX Practice Coach",
       tagline: "AI practice feedback with Claude",
       free: true,
-      href: "https://github.com/nickprocenko/Piano-MIDI-visualizer/tree/main/midi_coach",
+      href: "https://github.com/nickprocenko/musicfx-software/tree/main/midi_coach",
       description:
         "Records your playing and compares it with the score — wrong notes, timing, dynamics and pedal, bar by bar — and tracks your progress.",
       features: ["Bar-by-bar feedback", "Progress tracking", "Custom lessons in Learn Mode"],

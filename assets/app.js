@@ -72,7 +72,7 @@
             <li><a href="shop.html?cat=accessory">Accessories</a></li>
           </ul></div>
           <div><h4>Software</h4><ul>
-            <li><a href="https://nickprocenko.github.io/Piano-MIDI-visualizer/">Launch Visualizer</a></li>
+            <li><a href="https://nickprocenko.github.io/musicfx-software/">Launch Visualizer</a></li>
             <li><a href="software.html#coach">Practice Coach</a></li>
             <li><a href="software.html#firmware">Hub Firmware</a></li>
             <li><a href="software.html#stream">Streaming Tools</a></li>
@@ -80,7 +80,7 @@
           <div><h4>Support</h4><ul>
             <li><a href="shop.html#size-guide">Size Guide</a></li>
             <li><a href="index.html#faq">FAQ</a></li>
-            <li><a href="https://github.com/nickprocenko/Piano-MIDI-visualizer">GitHub</a></li>
+            <li><a href="https://github.com/nickprocenko/musicfx-software">GitHub</a></li>
           </ul></div>
         </div>
         <div class="footer-bottom">
